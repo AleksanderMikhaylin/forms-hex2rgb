@@ -1,5 +1,5 @@
 import './App.css';
-import ColorConverter from './components/ColorConverter/ColorConverter/ColorConverter';
+import ColorConverter from './components/ColorConverter';
 
 function App() {
     return (
